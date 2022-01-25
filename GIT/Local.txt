@@ -1,0 +1,8 @@
+git config --global user.name "_____________"     Assign the name of user.
+git config --global user.email "_____________"     Assign the email of user.
+git config --global --edit            Open ViM     (to exit ' ESC :wq ')
+mkdir ____________                    make directry in fE
+cd ________________                    move to that folder.
+git init                              to insilize the git in folder
+git status                              gives status about the repo 
+
